@@ -1,0 +1,524 @@
+sampleID	G_CIMP_STATUS	GeneExp_Subtype	vital_status	Osmonth	OS_IND	new_neoplasm_event_type	days_to_new_tumor_event_after_initial_treatment
+TCGA-02-0001-01	NON G-CIMP	non_Mesenchymal	DECEASED	358	1	Recurrence	137
+TCGA-02-0003-01	NON G-CIMP	non_Mesenchymal	DECEASED	144	1	Recurrence	40
+TCGA-02-0004-01	NON G-CIMP	Mesenchymal	DECEASED	345	1	Progression of Disease	314
+TCGA-02-0006-01	NON G-CIMP	Mesenchymal	DECEASED	558	1	Recurrence	302
+TCGA-02-0007-01	NON G-CIMP	non_Mesenchymal	DECEASED	705	1	Progression of Disease	518
+TCGA-02-0009-01	NON G-CIMP	non_Mesenchymal	DECEASED	322	1	Progression of Disease	264
+TCGA-02-0010-01	G-CIMP	non_Mesenchymal	DECEASED	1077	1	Progression of Disease	351
+TCGA-02-0011-01	NON G-CIMP	non_Mesenchymal	DECEASED	630	1	Progression of Disease	145
+TCGA-02-0014-01	G-CIMP	non_Mesenchymal	DECEASED	2512	1	Progression of Disease	2243
+TCGA-02-0015-01	NON G-CIMP	non_Mesenchymal	DECEASED	627	1	Recurrence	456
+TCGA-02-0016-01	NON G-CIMP	non_Mesenchymal	LIVING	1699	0	Recurrence	1699
+TCGA-02-0021-01	NON G-CIMP	non_Mesenchymal	DECEASED	2362	1	Progression of Disease	255
+TCGA-02-0023-01	NON G-CIMP	non_Mesenchymal	DECEASED	612	1	Progression of Disease	435
+TCGA-02-0024-01	NON G-CIMP	non_Mesenchymal	DECEASED	1615	1	Recurrence	1401
+TCGA-02-0025-01	NON G-CIMP	Mesenchymal	DECEASED	1300	1	Progression of Disease	656
+TCGA-02-0026-01	G-CIMP	non_Mesenchymal	DECEASED	748	1	Progression of Disease	462
+TCGA-02-0027-01	NON G-CIMP	non_Mesenchymal	DECEASED	370	1	Progression of Disease	257
+TCGA-02-0028-01	G-CIMP	non_Mesenchymal	DECEASED	2755	1	Progression of Disease	1921
+TCGA-02-0033-01	NON G-CIMP	Mesenchymal	DECEASED	86	1	Progression of Disease	32
+TCGA-02-0034-01	NON G-CIMP	Mesenchymal	DECEASED	430	1	Progression of Disease	386
+TCGA-02-0037-01	NON G-CIMP	non_Mesenchymal	DECEASED	110	1	Progression of Disease	37
+TCGA-02-0038-01	NON G-CIMP	non_Mesenchymal	DECEASED	326	1	Progression of Disease	239
+TCGA-02-0039-01	NON G-CIMP	Mesenchymal	DECEASED	320	1	Progression of Disease	102
+TCGA-02-0043-01	NON G-CIMP	non_Mesenchymal	DECEASED	557	1	Progression of Disease	282
+TCGA-02-0047-01	NON G-CIMP	non_Mesenchymal	DECEASED	448	1	Progression of Disease	57
+TCGA-02-0048-01	NON G-CIMP	non_Mesenchymal	DECEASED	98	1	Progression of Disease	23
+TCGA-02-0051-01	NON G-CIMP	Mesenchymal	DECEASED	459	1	Progression of Disease	89
+TCGA-02-0052-01	NON G-CIMP	non_Mesenchymal	DECEASED	383	1	Progression of Disease	204
+TCGA-02-0054-01	NON G-CIMP	Mesenchymal	DECEASED	199	1	Progression of Disease	72
+TCGA-02-0055-01	NON G-CIMP	Mesenchymal	DECEASED	76	1	Progression of Disease	6
+TCGA-02-0057-01	NON G-CIMP	non_Mesenchymal	DECEASED	604	1	Progression of Disease	473
+TCGA-02-0058-01	G-CIMP	non_Mesenchymal	DECEASED	254	1	Progression of Disease	172
+TCGA-02-0059-01	NON G-CIMP	Mesenchymal	DECEASED	291	1	Recurrence	21
+TCGA-02-0060-01	NON G-CIMP	non_Mesenchymal	DECEASED	183	1	Progression of Disease	183
+TCGA-02-0064-01	NON G-CIMP	Mesenchymal	DECEASED	600	1	Recurrence	496
+TCGA-02-0068-01	NON G-CIMP	non_Mesenchymal	DECEASED	804	1	Recurrence	175
+TCGA-02-0069-01	NON G-CIMP	non_Mesenchymal	LIVING	873	0	Progression of Disease	873
+TCGA-02-0070-01	NON G-CIMP	non_Mesenchymal	LIVING	762	0	Recurrence	762
+TCGA-02-0071-01	NON G-CIMP	non_Mesenchymal	DECEASED	167	1	Progression of Disease	8
+TCGA-02-0074-01	NON G-CIMP	non_Mesenchymal	DECEASED	310	1	Progression of Disease	154
+TCGA-02-0075-01	NON G-CIMP	Mesenchymal	DECEASED	634	1	Progression of Disease	336
+TCGA-02-0079-01	NON G-CIMP	Mesenchymal	DECEASED	829	1	Progression of Disease	798
+TCGA-02-0080-01	G-CIMP	non_Mesenchymal	DECEASED	2729	1	Progression of Disease	2339
+TCGA-02-0083-01	NON G-CIMP	non_Mesenchymal	DECEASED	691	1	Progression of Disease	463
+TCGA-02-0084-01	G-CIMP	non_Mesenchymal	DECEASED	384	1		
+TCGA-02-0085-01	NON G-CIMP	Mesenchymal	DECEASED	1561	1	Progression of Disease	976
+TCGA-02-0086-01	NON G-CIMP	Mesenchymal	DECEASED	268	1	Progression of Disease	97
+TCGA-02-0087-01	G-CIMP	non_Mesenchymal	LIVING	1757	0	Recurrence	1757
+TCGA-02-0089-01	NON G-CIMP	non_Mesenchymal	DECEASED	516	1	Progression of Disease	358
+TCGA-02-0099-01	NON G-CIMP	Mesenchymal	DECEASED	106	1		
+TCGA-02-0102-01	NON G-CIMP	non_Mesenchymal	DECEASED	822	1	Progression of Disease	450
+TCGA-02-0104-01	G-CIMP	non_Mesenchymal	DECEASED	1977	1	Recurrence	1457
+TCGA-02-0106-01	NON G-CIMP	Mesenchymal	DECEASED	355	1	Recurrence	196
+TCGA-02-0107-01	NON G-CIMP	Mesenchymal	DECEASED	537	1	Recurrence	146
+TCGA-02-0111-01	NON G-CIMP	Mesenchymal	DECEASED	705	1	Progression of Disease	74
+TCGA-02-0113-01	NON G-CIMP	non_Mesenchymal	LIVING	2818	0	Recurrence	1560
+TCGA-02-0114-01	G-CIMP	non_Mesenchymal	DECEASED	3041	1	Recurrence	2296
+TCGA-02-0115-01	NON G-CIMP	non_Mesenchymal	DECEASED	476	1	Progression of Disease	91
+TCGA-02-0116-01	NON G-CIMP	Mesenchymal	DECEASED	1489	1	Progression of Disease	1231
+TCGA-02-0258-01	G-CIMP	non_Mesenchymal	DECEASED	503	1	Recurrence	503
+TCGA-02-0260-01	NON G-CIMP	non_Mesenchymal	DECEASED	515	1	Locoregional Disease	
+TCGA-02-0266-01	NON G-CIMP	non_Mesenchymal	DECEASED	539	1	Progression of Disease	293
+TCGA-02-0269-01	NON G-CIMP	non_Mesenchymal	DECEASED	327	1	Progression of Disease	99
+TCGA-02-0271-01	NON G-CIMP	non_Mesenchymal	DECEASED	440	1		
+TCGA-02-0281-01	NON G-CIMP	non_Mesenchymal	DECEASED	121	1		
+TCGA-02-0285-01	NON G-CIMP	non_Mesenchymal	DECEASED	422	1		
+TCGA-02-0289-01	NON G-CIMP	non_Mesenchymal	DECEASED	432	1	Progression of Disease	245
+TCGA-02-0290-01	NON G-CIMP	non_Mesenchymal	DECEASED	485	1	Progression of Disease	374
+TCGA-02-0317-01	NON G-CIMP	non_Mesenchymal	DECEASED	372	1	Progression of Disease	238
+TCGA-02-0321-01	NON G-CIMP	non_Mesenchymal	DECEASED	301	1	Progression of Disease	73
+TCGA-02-0324-01	NON G-CIMP	non_Mesenchymal	DECEASED	235	1	Progression of Disease	164
+TCGA-02-0325-01	NON G-CIMP	non_Mesenchymal	DECEASED	323	1	Progression of Disease	284
+TCGA-02-0326-01	NON G-CIMP	Mesenchymal	DECEASED	223	1	Progression of Disease	5
+TCGA-02-0330-01	NON G-CIMP	Mesenchymal	DECEASED	484	1	Progression of Disease	120
+TCGA-02-0332-01	NON G-CIMP	Mesenchymal	DECEASED	782	1	Progression of Disease	438
+TCGA-02-0333-01	NON G-CIMP	non_Mesenchymal	DECEASED	133	1	Progression of Disease	4
+TCGA-02-0337-01	NON G-CIMP	Mesenchymal	DECEASED	764	1	Progression of Disease	691
+TCGA-02-0338-01	NON G-CIMP	non_Mesenchymal	DECEASED	322	1	Progression of Disease	168
+TCGA-02-0339-01	NON G-CIMP	non_Mesenchymal	DECEASED	377	1	Progression of Disease	148
+TCGA-02-0422-01	NON G-CIMP	non_Mesenchymal	DECEASED	441	1	Progression of Disease	125
+TCGA-02-0430-01	NON G-CIMP	non_Mesenchymal	DECEASED	321	1	Locoregional Disease	
+TCGA-02-0432-01	G-CIMP	non_Mesenchymal	DECEASED	1433	1	Progression of Disease	1053
+TCGA-02-0439-01	NON G-CIMP	non_Mesenchymal	DECEASED	20	1	Progression of Disease	13
+TCGA-02-0440-01	NON G-CIMP	non_Mesenchymal	DECEASED	345	1	Progression of Disease	212
+TCGA-02-0446-01	NON G-CIMP	non_Mesenchymal	DECEASED	282	1	Recurrence	15
+TCGA-02-0451-01	NON G-CIMP	non_Mesenchymal	DECEASED	493	1	Recurrence	428
+TCGA-02-0456-01	NON G-CIMP	Mesenchymal	DECEASED	102	1	Recurrence	12
+TCGA-02-2466-01	NON G-CIMP	non_Mesenchymal	DECEASED	511	1	Progression of Disease	128
+TCGA-02-2470-01	NON G-CIMP	Mesenchymal	DECEASED	393	1	Progression of Disease	183
+TCGA-02-2483-01	G-CIMP	non_Mesenchymal	LIVING	466	0		
+TCGA-02-2485-01	NON G-CIMP	non_Mesenchymal	LIVING	470	0	Progression of Disease	186
+TCGA-02-2486-01	NON G-CIMP	Mesenchymal	LIVING	493	0		
+TCGA-06-0122-01	NON G-CIMP	Mesenchymal	DECEASED	187	1		
+TCGA-06-0124-01	NON G-CIMP	Mesenchymal	DECEASED	620	1		
+TCGA-06-0125-01	NON G-CIMP	non_Mesenchymal	DECEASED	1448	1	Progression of Disease	797
+TCGA-06-0126-01	NON G-CIMP	non_Mesenchymal	DECEASED	211	1		
+TCGA-06-0127-01	NON G-CIMP	non_Mesenchymal	DECEASED	121	1	Progression of Disease	91
+TCGA-06-0128-01	G-CIMP	non_Mesenchymal	DECEASED	691	1	Progression of Disease	190
+TCGA-06-0129-01	G-CIMP	non_Mesenchymal	DECEASED	1024	1	Progression of Disease	148
+TCGA-06-0130-01	NON G-CIMP	Mesenchymal	DECEASED	394	1	Progression of Disease	244
+TCGA-06-0133-01	NON G-CIMP	non_Mesenchymal	DECEASED	435	1	Progression of Disease	78
+TCGA-06-0137-01	NON G-CIMP	non_Mesenchymal	DECEASED	812	1	Progression of Disease	487
+TCGA-06-0138-01	NON G-CIMP	non_Mesenchymal	DECEASED	737	1	Progression of Disease	394
+TCGA-06-0139-01	NON G-CIMP	Mesenchymal	DECEASED	362	1	Progression of Disease	152
+TCGA-06-0140-01	NON G-CIMP	Mesenchymal	DECEASED	6	1		
+TCGA-06-0141-01	NON G-CIMP	Mesenchymal	DECEASED	313	1	Progression of Disease	145
+TCGA-06-0142-01	NON G-CIMP	non_Mesenchymal	DECEASED	67	1		
+TCGA-06-0143-01	NON G-CIMP	Mesenchymal	DECEASED	357	1	Recurrence	265
+TCGA-06-0145-01	NON G-CIMP	non_Mesenchymal	DECEASED	71	1		
+TCGA-06-0146-01	G-CIMP	non_Mesenchymal	DECEASED	611	1	Progression of Disease	530
+TCGA-06-0147-01	NON G-CIMP	Mesenchymal	DECEASED	541	1	Progression of Disease	92
+TCGA-06-0149-01	NON G-CIMP	Mesenchymal	DECEASED	262	1	Progression of Disease	204
+TCGA-06-0152-01	NON G-CIMP	Mesenchymal	DECEASED	375	1	Progression of Disease	299
+TCGA-06-0154-01	NON G-CIMP	Mesenchymal	DECEASED	424	1	Progression of Disease	208
+TCGA-06-0155-01	NON G-CIMP	Mesenchymal	DECEASED	318	1	Progression of Disease	256
+TCGA-06-0156-01	NON G-CIMP	non_Mesenchymal	DECEASED	178	1		
+TCGA-06-0157-01	NON G-CIMP	non_Mesenchymal	DECEASED	97	1		
+TCGA-06-0158-01	NON G-CIMP	non_Mesenchymal	DECEASED	329	1	Progression of Disease	90
+TCGA-06-0160-01	NON G-CIMP	non_Mesenchymal	DECEASED	359	1		
+TCGA-06-0162-01	NON G-CIMP	non_Mesenchymal	DECEASED	104	1		
+TCGA-06-0164-01	NON G-CIMP	Mesenchymal	DECEASED	1731	1	Progression of Disease	1428
+TCGA-06-0166-01	NON G-CIMP	non_Mesenchymal	DECEASED	178	1	Progression of Disease	66
+TCGA-06-0168-01	NON G-CIMP	Mesenchymal	DECEASED	598	1	Progression of Disease	461
+TCGA-06-0169-01	NON G-CIMP	Mesenchymal	DECEASED	100	1	Progression of Disease	92
+TCGA-06-0171-01	NON G-CIMP	non_Mesenchymal	DECEASED	399	1	Progression of Disease	117
+TCGA-06-0173-01	NON G-CIMP	non_Mesenchymal	DECEASED	136	1		
+TCGA-06-0174-01	NON G-CIMP	non_Mesenchymal	DECEASED	98	1	Progression of Disease	47
+TCGA-06-0175-01	NON G-CIMP	Mesenchymal	DECEASED	123	1	Progression of Disease	39
+TCGA-06-0176-01	NON G-CIMP	Mesenchymal	LIVING	1562	0	Progression of Disease	41
+TCGA-06-0177-01	NON G-CIMP	non_Mesenchymal	DECEASED	127	1		
+TCGA-06-0178-01		non_Mesenchymal	LIVING	1642	0	Progression of Disease	192
+TCGA-06-0179-01	NON G-CIMP	non_Mesenchymal	DECEASED	616	1	Progression of Disease	250
+TCGA-06-0182-01	NON G-CIMP	non_Mesenchymal	DECEASED	111	1		
+TCGA-06-0184-01	NON G-CIMP	Mesenchymal	LIVING	1228	0		1276
+TCGA-06-0185-01	NON G-CIMP	non_Mesenchymal	LIVING	1126	0	Progression of Disease	711
+TCGA-06-0187-01	NON G-CIMP	non_Mesenchymal	DECEASED	828	1	Recurrence	531
+TCGA-06-0188-01	NON G-CIMP	non_Mesenchymal	LIVING	866	0		310
+TCGA-06-0189-01	NON G-CIMP	Mesenchymal	DECEASED	469	1		
+TCGA-06-0190-01	NON G-CIMP	Mesenchymal	DECEASED	317	1	Progression of Disease	88
+TCGA-06-0192-01	NON G-CIMP	Mesenchymal	LIVING	557	0	Locoregional Disease	648
+TCGA-06-0194-01	NON G-CIMP	Mesenchymal	DECEASED	142	1	Progression of Disease	125
+TCGA-06-0195-01	NON G-CIMP	non_Mesenchymal	DECEASED	225	1	Progression of Disease	147
+TCGA-06-0197-01	NON G-CIMP	Mesenchymal	DECEASED	169	1	Progression of Disease	47
+TCGA-06-0208-01	NON G-CIMP	non_Mesenchymal	DECEASED	256	1	Progression of Disease	149
+TCGA-06-0210-01	NON G-CIMP	Mesenchymal	DECEASED	225	1	Progression of Disease	67
+TCGA-06-0211-01	NON G-CIMP	non_Mesenchymal	DECEASED	360	1	Progression of Disease	53
+TCGA-06-0213-01	NON G-CIMP	non_Mesenchymal	DECEASED	16	1		
+TCGA-06-0214-01	NON G-CIMP	non_Mesenchymal	DECEASED	457	1	Progression of Disease	48
+TCGA-06-0216-01	NON G-CIMP	non_Mesenchymal	DECEASED	735	1	Progression of Disease	175
+TCGA-06-0219-01	NON G-CIMP	non_Mesenchymal	DECEASED	22	1		
+TCGA-06-0221-01	G-CIMP	non_Mesenchymal	DECEASED	603	1	Progression of Disease	260
+TCGA-06-0237-01	NON G-CIMP	non_Mesenchymal	DECEASED	415	1		
+TCGA-06-0238-01	NON G-CIMP	non_Mesenchymal	DECEASED	405	1	Progression of Disease	311
+TCGA-06-0240-01	NON G-CIMP	non_Mesenchymal	DECEASED	621	1		
+TCGA-06-0241-01	NON G-CIMP	non_Mesenchymal	LIVING	455	0	Recurrence	196
+TCGA-06-0394-01	NON G-CIMP	non_Mesenchymal	DECEASED	329	1	Progression of Disease	87
+TCGA-06-0397-01	NON G-CIMP	Mesenchymal	DECEASED	274	1	Locoregional Disease	
+TCGA-06-0402-01	NON G-CIMP	non_Mesenchymal	DECEASED	8	1		
+TCGA-06-0409-01	NON G-CIMP	Mesenchymal	DECEASED	2201	1	Progression of Disease	334
+TCGA-06-0410-01	NON G-CIMP	non_Mesenchymal	DECEASED	143	1		
+TCGA-06-0412-01	NON G-CIMP	Mesenchymal	DECEASED	291	1	Progression of Disease	130
+TCGA-06-0413-01	NON G-CIMP	non_Mesenchymal	DECEASED	96	1		
+TCGA-06-0414-01	NON G-CIMP	non_Mesenchymal	DECEASED	1068	1	Recurrence	1013
+TCGA-06-0644-01	NON G-CIMP	Mesenchymal	LIVING	375	0	Recurrence	85
+TCGA-06-0645-01	NON G-CIMP	Mesenchymal	DECEASED	175	1		
+TCGA-06-0646-01	NON G-CIMP	non_Mesenchymal	DECEASED	175	1	Progression of Disease	90
+TCGA-06-0648-01	NON G-CIMP	non_Mesenchymal	DECEASED	298	1	Progression of Disease	202
+TCGA-06-0649-01	NON G-CIMP	non_Mesenchymal	DECEASED	64	1		
+TCGA-06-0650-01	NON G-CIMP	Mesenchymal	DECEASED	717	1	Progression of Disease	351
+TCGA-06-0686-01	NON G-CIMP	non_Mesenchymal	LIVING	286	0	Progression of Disease	160
+TCGA-06-0743-01	NON G-CIMP	non_Mesenchymal	LIVING	679	0	Progression of Disease	176
+TCGA-06-0744-01	NON G-CIMP	non_Mesenchymal	LIVING	595	0		1277
+TCGA-06-0745-01	NON G-CIMP	non_Mesenchymal	DECEASED	239	1	Progression of Disease	92
+TCGA-06-0747-01	NON G-CIMP	non_Mesenchymal	DECEASED	82	1		
+TCGA-06-0749-01	NON G-CIMP	non_Mesenchymal	DECEASED	82	1		
+TCGA-06-0750-01	NON G-CIMP	Mesenchymal	DECEASED	28	1		
+TCGA-06-0875-01	NON G-CIMP	non_Mesenchymal	LIVING	279	0	Progression of Disease	279
+TCGA-06-0876-01	NON G-CIMP	non_Mesenchymal	LIVING	271	0		424
+TCGA-06-0877-01	NON G-CIMP	non_Mesenchymal	LIVING	204	0		
+TCGA-06-0878-01	NON G-CIMP	Mesenchymal	LIVING	218	0	Recurrence	66
+TCGA-06-0879-01	NON G-CIMP	non_Mesenchymal	LIVING	699	0	Recurrence	699
+TCGA-06-0881-01	NON G-CIMP	Mesenchymal	LIVING	178	0	Recurrence	141
+TCGA-06-0882-01	NON G-CIMP	non_Mesenchymal	LIVING	165	0	Recurrence	213
+TCGA-06-0939-01	NON G-CIMP	non_Mesenchymal	LIVING	637	0	Progression of Disease	329
+TCGA-06-1084-01	NON G-CIMP	Mesenchymal	LIVING	226	0	Progression of Disease	208
+TCGA-06-1086-01	NON G-CIMP	Mesenchymal	DECEASED	208	1		
+TCGA-06-1087-01	NON G-CIMP	non_Mesenchymal	DECEASED	123	1	Recurrence	109
+TCGA-06-1800-01	NON G-CIMP	Mesenchymal	DECEASED	815	1	Recurrence	750
+TCGA-06-1801-01	NON G-CIMP	non_Mesenchymal	LIVING	263	0	Recurrence	232
+TCGA-06-1802-01	NON G-CIMP	Mesenchymal	LIVING	240	0	Recurrence	81
+TCGA-06-1804-01	NON G-CIMP	non_Mesenchymal	DECEASED	414	1		
+TCGA-06-1805-01	G-CIMP	non_Mesenchymal	LIVING	128	0		
+TCGA-06-2557-01	NON G-CIMP	Mesenchymal	DECEASED	33	1		
+TCGA-06-2558-01	NON G-CIMP	non_Mesenchymal	DECEASED	380	1		
+TCGA-06-2559-01	NON G-CIMP	non_Mesenchymal	DECEASED	150	1		
+TCGA-06-2561-01	NON G-CIMP	Mesenchymal	LIVING	282	0	Recurrence	78
+TCGA-06-2562-01	NON G-CIMP	Mesenchymal	LIVING	86	0	Progression of Disease	151
+TCGA-06-2563-01	NON G-CIMP	non_Mesenchymal	LIVING	259	0		554
+TCGA-06-2564-01	NON G-CIMP	non_Mesenchymal	LIVING	181	0		
+TCGA-06-2565-01	NON G-CIMP	non_Mesenchymal	LIVING	207	0	Progression of Disease	178
+TCGA-06-2566-01	NON G-CIMP	non_Mesenchymal	DECEASED	182	1		
+TCGA-06-2567-01	NON G-CIMP	non_Mesenchymal	DECEASED	133	1		
+TCGA-06-2569-01	G-CIMP	Mesenchymal	LIVING	13	0		
+TCGA-06-2570-01	G-CIMP	non_Mesenchymal	LIVING	285	0		
+TCGA-06-5408-01	NON G-CIMP	non_Mesenchymal	DECEASED	357	1	Progression of Disease	158
+TCGA-06-5410-01	NON G-CIMP	Mesenchymal	DECEASED	108	1		
+TCGA-06-5411-01	NON G-CIMP	non_Mesenchymal	DECEASED	254	1	Progression of Disease	214
+TCGA-06-5412-01	NON G-CIMP	Mesenchymal	DECEASED	138	1	Progression of Disease	88
+TCGA-06-5413-01	NON G-CIMP	non_Mesenchymal	LIVING	268	0	Progression of Disease	195
+TCGA-06-5414-01	NON G-CIMP	non_Mesenchymal	LIVING	273	0	Progression of Disease	167
+TCGA-06-5415-01	NON G-CIMP	non_Mesenchymal	LIVING	260	0		
+TCGA-06-5416-01	NON G-CIMP	non_Mesenchymal	LIVING	204	0		
+TCGA-06-5417-01	G-CIMP	non_Mesenchymal	LIVING	155	0		
+TCGA-06-5418-01	NON G-CIMP	Mesenchymal	DECEASED	83	1		
+TCGA-06-5856-01	NON G-CIMP	non_Mesenchymal	DECEASED	114	1		
+TCGA-06-5858-01	NON G-CIMP	Mesenchymal	LIVING	187	0	Progression of Disease	97
+TCGA-06-5859-01	NON G-CIMP	non_Mesenchymal	LIVING	139	0		
+TCGA-06-6389-01	G-CIMP	non_Mesenchymal	LIVING	237	0		
+TCGA-06-6390-01	NON G-CIMP	non_Mesenchymal	DECEASED	164	1		
+TCGA-06-6391-01	NON G-CIMP	non_Mesenchymal	DECEASED	45	1		
+TCGA-08-0244-01	NON G-CIMP	non_Mesenchymal	DECEASED	690	1	Recurrence	484
+TCGA-08-0245-01	NON G-CIMP	non_Mesenchymal	DECEASED	1151	1	Progression of Disease	463
+TCGA-08-0246-01	NON G-CIMP	non_Mesenchymal	DECEASED	127	1	Progression of Disease	103
+TCGA-08-0344-01	G-CIMP	non_Mesenchymal	DECEASED	3524	1	Recurrence	1880
+TCGA-08-0345-01	NON G-CIMP	non_Mesenchymal	DECEASED	53	1		
+TCGA-08-0346-01	NON G-CIMP	Mesenchymal	DECEASED	256	1	Progression of Disease	75
+TCGA-08-0347-01	NON G-CIMP	non_Mesenchymal	DECEASED	782	1	Progression of Disease	59
+TCGA-08-0348-01	NON G-CIMP	non_Mesenchymal	DECEASED	370	1	Recurrence	198
+TCGA-08-0349-01	NON G-CIMP	non_Mesenchymal	DECEASED	298	1	Progression of Disease	93
+TCGA-08-0350-01	G-CIMP	non_Mesenchymal	DECEASED	889	1	Recurrence	439
+TCGA-08-0351-01	G-CIMP	non_Mesenchymal	DECEASED	1987	1	Recurrence	1542
+TCGA-08-0352-01	NON G-CIMP	Mesenchymal	DECEASED	39	1		
+TCGA-08-0353-01	NON G-CIMP	non_Mesenchymal	DECEASED	256	1	Progression of Disease	164
+TCGA-08-0354-01	NON G-CIMP	non_Mesenchymal	DECEASED	546	1	Progression of Disease	253
+TCGA-08-0355-01		non_Mesenchymal	DECEASED	747	1	Recurrence	519
+TCGA-08-0356-01	NON G-CIMP	non_Mesenchymal	DECEASED	946	1	Recurrence	447
+TCGA-08-0357-01	NON G-CIMP	non_Mesenchymal	DECEASED	1143	1	Recurrence	155
+TCGA-08-0358-01	NON G-CIMP	non_Mesenchymal	DECEASED	678	1	Recurrence	264
+TCGA-08-0359-01	NON G-CIMP	non_Mesenchymal	DECEASED	103	1		
+TCGA-08-0360-01	NON G-CIMP	Mesenchymal	DECEASED	468	1	Recurrence	112
+TCGA-08-0373-01	NON G-CIMP	Mesenchymal	DECEASED	134	1		
+TCGA-08-0375-01	NON G-CIMP	non_Mesenchymal	DECEASED	372	1	Recurrence	161
+TCGA-08-0380-01	NON G-CIMP	non_Mesenchymal	DECEASED	454	1	Progression of Disease	151
+TCGA-08-0385-01		non_Mesenchymal	DECEASED	82	1		
+TCGA-08-0386-01	NON G-CIMP	non_Mesenchymal	DECEASED	548	1	Recurrence	427
+TCGA-08-0389-01	NON G-CIMP	non_Mesenchymal	DECEASED	467	1		
+TCGA-08-0390-01		Mesenchymal	DECEASED	425	1		
+TCGA-08-0392-01	NON G-CIMP	Mesenchymal	DECEASED	22	1		
+TCGA-08-0509-01	NON G-CIMP	Mesenchymal	DECEASED	382	1		
+TCGA-08-0510-01	NON G-CIMP	Mesenchymal	DECEASED	130	1	Recurrence	90
+TCGA-08-0511-01	NON G-CIMP	non_Mesenchymal	DECEASED	235	1		
+TCGA-08-0512-01	NON G-CIMP	Mesenchymal	DECEASED	1282	1	Progression of Disease	231
+TCGA-08-0514-01	NON G-CIMP	non_Mesenchymal	DECEASED	337	1		
+TCGA-08-0516-01	NON G-CIMP	non_Mesenchymal	DECEASED	596	1	Progression of Disease	40
+TCGA-08-0517-01	G-CIMP	non_Mesenchymal	DECEASED	1785	1	Recurrence	1024
+TCGA-08-0518-01	NON G-CIMP	non_Mesenchymal	DECEASED	588	1	Progression of Disease	134
+TCGA-08-0520-01	NON G-CIMP	non_Mesenchymal	DECEASED	327	1	Recurrence	105
+TCGA-08-0521-01	NON G-CIMP	non_Mesenchymal	DECEASED	146	1	Progression of Disease	125
+TCGA-08-0522-01	NON G-CIMP	Mesenchymal	DECEASED	635	1	Progression of Disease	266
+TCGA-08-0524-01	NON G-CIMP	non_Mesenchymal	DECEASED	221	1	Progression of Disease	61
+TCGA-08-0525-01	NON G-CIMP	non_Mesenchymal	DECEASED	486	1	Progression of Disease	343
+TCGA-08-0529-01	NON G-CIMP	non_Mesenchymal	DECEASED	560	1	Recurrence	328
+TCGA-08-0531-01	NON G-CIMP	non_Mesenchymal	DECEASED	230	1		
+TCGA-12-0616-01	NON G-CIMP	non_Mesenchymal	DECEASED	448	1	Progression of Disease	398
+TCGA-12-0618-01	NON G-CIMP	non_Mesenchymal	DECEASED	395	1		
+TCGA-12-0619-01	NON G-CIMP	Mesenchymal	DECEASED	1062	1	Progression of Disease	203
+TCGA-12-0620-01	NON G-CIMP	Mesenchymal	DECEASED	318	1		
+TCGA-12-0654-01	NON G-CIMP	Mesenchymal	DECEASED	231	1	Progression of Disease	216
+TCGA-12-0656-01	NON G-CIMP	non_Mesenchymal	DECEASED	2883	1	Progression of Disease	1467
+TCGA-12-0657-01	NON G-CIMP	non_Mesenchymal	DECEASED	3	1		
+TCGA-12-0670-01	NON G-CIMP	non_Mesenchymal	DECEASED	790	1	Progression of Disease	379
+TCGA-12-0688-01	NON G-CIMP	non_Mesenchymal	DECEASED	811	1	Progression of Disease	228
+TCGA-12-0692-01	NON G-CIMP	non_Mesenchymal	DECEASED	111	1	Progression of Disease	35
+TCGA-12-0703-01	NON G-CIMP	non_Mesenchymal	DECEASED	620	1	Progression of Disease	208
+TCGA-12-0707-01	NON G-CIMP	non_Mesenchymal	DECEASED	864	1		
+TCGA-12-0772-01	NON G-CIMP	Mesenchymal	DECEASED	1638	1	Progression of Disease	607
+TCGA-12-0773-01	NON G-CIMP	non_Mesenchymal	DECEASED	1315	1	Progression of Disease	725
+TCGA-12-0775-01	NON G-CIMP	Mesenchymal	DECEASED	232	1	Progression of Disease	94
+TCGA-12-0776-01	NON G-CIMP	Mesenchymal	DECEASED	296	1	Progression of Disease	127
+TCGA-12-0778-01	NON G-CIMP	Mesenchymal	DECEASED	454	1	Progression of Disease	232
+TCGA-12-0780-01	NON G-CIMP	non_Mesenchymal	DECEASED	452	1	Progression of Disease	91
+TCGA-12-0820-01	NON G-CIMP	non_Mesenchymal	DECEASED	562	1	Recurrence	272
+TCGA-12-0821-01	NON G-CIMP	non_Mesenchymal	DECEASED	323	1	Recurrence	259
+TCGA-12-0822-01	NON G-CIMP	non_Mesenchymal	DECEASED	715	1	Recurrence	91
+TCGA-12-0826-01	NON G-CIMP	non_Mesenchymal	DECEASED	845	1		
+TCGA-12-0827-01	G-CIMP	Mesenchymal	DECEASED	1179	1	Locoregional Disease	
+TCGA-12-0828-01	NON G-CIMP	non_Mesenchymal	DECEASED	272	1	Progression of Disease	13
+TCGA-12-0829-01	NON G-CIMP	Mesenchymal	DECEASED	626	1	Recurrence	473
+TCGA-12-1088-01	NON G-CIMP	Mesenchymal	DECEASED	3881	1		
+TCGA-12-1089-01	NON G-CIMP	non_Mesenchymal	DECEASED	177	1		
+TCGA-12-1090-01	NON G-CIMP	Mesenchymal	DECEASED	231	1		
+TCGA-12-1091-01	NON G-CIMP	non_Mesenchymal	DECEASED	1010	1	Recurrence	56
+TCGA-12-1092-01	NON G-CIMP	Mesenchymal	DECEASED	661	1	Recurrence	637
+TCGA-12-1093-01	NON G-CIMP	Mesenchymal	DECEASED	486	1	Recurrence	322
+TCGA-12-1094-01	NON G-CIMP	non_Mesenchymal	DECEASED	372	1	Recurrence	186
+TCGA-12-1095-01	NON G-CIMP	Mesenchymal	DECEASED	482	1	Progression of Disease	96
+TCGA-12-1096-01	NON G-CIMP	Mesenchymal	DECEASED	277	1	Recurrence	270
+TCGA-12-1097-01	NON G-CIMP	non_Mesenchymal	DECEASED	442	1	Progression of Disease	166
+TCGA-12-1098-01	NON G-CIMP	non_Mesenchymal	DECEASED	121	1	Recurrence	93
+TCGA-12-1099-01	NON G-CIMP	non_Mesenchymal	DECEASED	126	1	Recurrence	62
+TCGA-12-1597-01	NON G-CIMP	non_Mesenchymal	DECEASED	675	1	Progression of Disease	180
+TCGA-12-1598-01	NON G-CIMP	non_Mesenchymal	DECEASED	476	1		
+TCGA-12-1599-01	NON G-CIMP	non_Mesenchymal	DECEASED	781	1	Progression of Disease	89
+TCGA-12-1600-01	NON G-CIMP	non_Mesenchymal	DECEASED	448	1	Progression of Disease	404
+TCGA-12-1602-01	NON G-CIMP	non_Mesenchymal	DECEASED	206	1	Progression of Disease	140
+TCGA-12-3644-01	NON G-CIMP	non_Mesenchymal	DECEASED	1818	1	Progression of Disease	1142
+TCGA-12-3646-01	NON G-CIMP	non_Mesenchymal	DECEASED	1339	1	Progression of Disease	1315
+TCGA-12-3648-01	NON G-CIMP	non_Mesenchymal	DECEASED	819	1	Progression of Disease	86
+TCGA-12-3649-01	NON G-CIMP	non_Mesenchymal	DECEASED	463	1	Progression of Disease	351
+TCGA-12-3650-01	NON G-CIMP	non_Mesenchymal	DECEASED	333	1	Progression of Disease	239
+TCGA-12-3651-01	NON G-CIMP	non_Mesenchymal	DECEASED	386	1	Progression of Disease	358
+TCGA-12-3652-01	NON G-CIMP	non_Mesenchymal	DECEASED	1062	1	Progression of Disease	203
+TCGA-12-3653-01	NON G-CIMP	non_Mesenchymal	DECEASED	442	1	Progression of Disease	224
+TCGA-12-5295-01	NON G-CIMP	non_Mesenchymal	DECEASED	454	1	Progression of Disease	399
+TCGA-12-5299-01	NON G-CIMP	non_Mesenchymal	DECEASED	98	1		
+TCGA-12-5301-01	NON G-CIMP	non_Mesenchymal	DECEASED	62	1		
+TCGA-14-0736-01	NON G-CIMP	Mesenchymal	DECEASED	460	1	Recurrence	128
+TCGA-14-0781-01	NON G-CIMP	Mesenchymal	DECEASED	29	1		
+TCGA-14-0783-01	NON G-CIMP	Mesenchymal	DECEASED	189	1		
+TCGA-14-0786-01	NON G-CIMP	non_Mesenchymal	DECEASED	701	1	Recurrence	127
+TCGA-14-0787-01	NON G-CIMP	non_Mesenchymal	DECEASED	68	1		
+TCGA-14-0789-01	NON G-CIMP	Mesenchymal	DECEASED	342	1	Progression of Disease	105
+TCGA-14-0790-01	NON G-CIMP	non_Mesenchymal	DECEASED	419	1		
+TCGA-14-0812-01	NON G-CIMP	non_Mesenchymal	DECEASED	99	1		
+TCGA-14-0813-01	NON G-CIMP	non_Mesenchymal	DECEASED	41	1		
+TCGA-14-0817-01	NON G-CIMP	non_Mesenchymal	DECEASED	164	1		
+TCGA-14-0865-01	G-CIMP	non_Mesenchymal	DECEASED	502	1	Progression of Disease	215
+TCGA-14-0866-01	NON G-CIMP	non_Mesenchymal	DECEASED	801	1	Recurrence	97
+TCGA-14-0867-01	NON G-CIMP	Mesenchymal	DECEASED	62	1		
+TCGA-14-0871-01		Mesenchymal	DECEASED	880	1		
+TCGA-14-1034-01	NON G-CIMP	Mesenchymal	DECEASED	485	1	Progression of Disease	282
+TCGA-14-1037-01	NON G-CIMP	Mesenchymal	DECEASED	587	1	Recurrence	326
+TCGA-14-1396-01	NON G-CIMP	Mesenchymal	DECEASED	34	1		
+TCGA-14-1401-01	NON G-CIMP	non_Mesenchymal	DECEASED	114	1		
+TCGA-14-1402-01	NON G-CIMP	non_Mesenchymal	DECEASED	975	1	Progression of Disease	333
+TCGA-14-1451-01	NON G-CIMP	non_Mesenchymal	DECEASED	703	1	Recurrence	19
+TCGA-14-1452-01	NON G-CIMP	Mesenchymal	DECEASED	216	1	Recurrence	172
+TCGA-14-1453-01	NON G-CIMP	non_Mesenchymal	DECEASED	35	1		
+TCGA-14-1454-01	NON G-CIMP	non_Mesenchymal	DECEASED	918	1	Recurrence	291
+TCGA-14-1455-01	NON G-CIMP	non_Mesenchymal	DECEASED	28	1		
+TCGA-14-1456-01	G-CIMP	non_Mesenchymal	LIVING	1246	0	Progression of Disease	98
+TCGA-14-1458-01	G-CIMP	non_Mesenchymal	DECEASED	203	1	Recurrence	81
+TCGA-14-1459-01	NON G-CIMP	non_Mesenchymal	DECEASED	378	1	Progression of Disease	275
+TCGA-14-1794-01	NON G-CIMP	non_Mesenchymal	DECEASED	30	1		
+TCGA-14-1795-01	NON G-CIMP	non_Mesenchymal	DECEASED	60	1		
+TCGA-14-1821-01	G-CIMP	non_Mesenchymal	DECEASED	541	1	Recurrence	331
+TCGA-14-1823-01	NON G-CIMP	Mesenchymal	DECEASED	543	1	Recurrence	140
+TCGA-14-1825-01	NON G-CIMP	non_Mesenchymal	DECEASED	232	1	Progression of Disease	82
+TCGA-14-1827-01	NON G-CIMP	non_Mesenchymal	DECEASED	179	1		
+TCGA-14-1829-01	NON G-CIMP	non_Mesenchymal	LIVING	218	0		
+TCGA-14-2554-01	NON G-CIMP	non_Mesenchymal	DECEASED	532	1	Locoregional Disease	
+TCGA-14-2555-01	NON G-CIMP	non_Mesenchymal	LIVING	242	0		
+TCGA-14-3476-01	NON G-CIMP	non_Mesenchymal	DECEASED	12	1	Progression of Disease	9
+TCGA-14-3477-01	G-CIMP	non_Mesenchymal	LIVING	115	0		
+TCGA-14-4157-01	G-CIMP	non_Mesenchymal	LIVING	104	0	Progression of Disease	96
+TCGA-15-0742-01	NON G-CIMP	non_Mesenchymal	DECEASED	419	1	Progression of Disease	232
+TCGA-15-1444-01	G-CIMP	non_Mesenchymal	DECEASED	1537	1		
+TCGA-15-1446-01	NON G-CIMP	non_Mesenchymal	LIVING	581	0	Recurrence	443
+TCGA-15-1447-01	NON G-CIMP	non_Mesenchymal	LIVING	1618	0	Recurrence	340
+TCGA-15-1449-01	NON G-CIMP	non_Mesenchymal	DECEASED	404	1	Recurrence	74
+TCGA-16-0846-01	NON G-CIMP	non_Mesenchymal	DECEASED	119	1		
+TCGA-16-0848-01	NON G-CIMP	non_Mesenchymal	DECEASED	535	1	Recurrence	129
+TCGA-16-0849-01	G-CIMP	non_Mesenchymal	LIVING	793	0		
+TCGA-16-0850-01	G-CIMP	non_Mesenchymal	DECEASED	498	1	Recurrence	83
+TCGA-16-0861-01	NON G-CIMP	non_Mesenchymal				Recurrence	94
+TCGA-16-1045-01	NON G-CIMP	Mesenchymal	DECEASED	883	1	Recurrence	654
+TCGA-16-1047-01	NON G-CIMP	non_Mesenchymal	DECEASED	139	1	Progression of Disease	25
+TCGA-16-1048-01	NON G-CIMP	non_Mesenchymal					
+TCGA-16-1055-01	NON G-CIMP	non_Mesenchymal	DECEASED	313	1	Recurrence	288
+TCGA-16-1056-01	NON G-CIMP	non_Mesenchymal	DECEASED	426	1	Recurrence	239
+TCGA-16-1060-01	NON G-CIMP	Mesenchymal	DECEASED	278	1	Progression of Disease	111
+TCGA-16-1062-01	NON G-CIMP	non_Mesenchymal	DECEASED	646	1	Progression of Disease	518
+TCGA-16-1063-01	NON G-CIMP	non_Mesenchymal	DECEASED	425	1	Progression of Disease	369
+TCGA-16-1460-01	G-CIMP	non_Mesenchymal	LIVING	195	0		
+TCGA-19-0955-01	NON G-CIMP	non_Mesenchymal	LIVING	358	0		
+TCGA-19-0957-01	NON G-CIMP	non_Mesenchymal	DECEASED	666	1	Recurrence	50
+TCGA-19-0960-01	NON G-CIMP	non_Mesenchymal	LIVING	262	0		
+TCGA-19-0962-01	NON G-CIMP	Mesenchymal	DECEASED	20	1		
+TCGA-19-0963-01	NON G-CIMP	non_Mesenchymal	DECEASED	434	1	Recurrence	310
+TCGA-19-0964-01	G-CIMP	non_Mesenchymal	LIVING	103	0		
+TCGA-19-1385-01	NON G-CIMP	Mesenchymal	DECEASED	327	1	Recurrence	177
+TCGA-19-1386-01	NON G-CIMP	non_Mesenchymal	DECEASED	276	1	Recurrence	237
+TCGA-19-1387-01	NON G-CIMP	non_Mesenchymal	LIVING	181	0	Recurrence	79
+TCGA-19-1388-01	NON G-CIMP	Mesenchymal	DECEASED	394	1	Progression of Disease	148
+TCGA-19-1389-01	NON G-CIMP	Mesenchymal	DECEASED	141	1	Recurrence	81
+TCGA-19-1390-01	NON G-CIMP	non_Mesenchymal	DECEASED	772	1		
+TCGA-19-1392-01	NON G-CIMP	non_Mesenchymal	DECEASED	111	1		
+TCGA-19-1786-01	NON G-CIMP	non_Mesenchymal	LIVING	218	0		
+TCGA-19-1787-01	NON G-CIMP	Mesenchymal	DECEASED	385	1	Recurrence	308
+TCGA-19-1788-01	G-CIMP	non_Mesenchymal	DECEASED	112	1		
+TCGA-19-1789-01	NON G-CIMP	non_Mesenchymal	DECEASED	99	1		
+TCGA-19-1790-01	NON G-CIMP	Mesenchymal	DECEASED	154	1	Progression of Disease	88
+TCGA-19-1791-01	NON G-CIMP	non_Mesenchymal	LIVING	4	0		
+TCGA-19-2619-01	NON G-CIMP	non_Mesenchymal	LIVING	294	0	Progression of Disease	146
+TCGA-19-2620-01	NON G-CIMP	non_Mesenchymal	DECEASED	148	1		
+TCGA-19-2621-01	NON G-CIMP	non_Mesenchymal	DECEASED	33	1		
+TCGA-19-2623-01	NON G-CIMP	Mesenchymal	LIVING	229	0		
+TCGA-19-2624-01	NON G-CIMP	non_Mesenchymal	DECEASED	5	1		
+TCGA-19-2625-01	NON G-CIMP	non_Mesenchymal	DECEASED	124	1		
+TCGA-19-2629-01	G-CIMP	non_Mesenchymal	DECEASED	737	1	Progression of Disease	145
+TCGA-19-2631-01	NON G-CIMP	non_Mesenchymal	DECEASED	213	1		
+TCGA-19-4068-01	NON G-CIMP	non_Mesenchymal	LIVING	137	0		
+TCGA-19-5947-01	NON G-CIMP	Mesenchymal	DECEASED	202	1	Progression of Disease	43
+TCGA-19-5950-01	NON G-CIMP	non_Mesenchymal	LIVING	343	0	Recurrence	294
+TCGA-19-5951-01	NON G-CIMP	non_Mesenchymal	DECEASED	244	1		
+TCGA-19-5952-01	NON G-CIMP	non_Mesenchymal	DECEASED	575	1		
+TCGA-19-5954-01	NON G-CIMP	non_Mesenchymal	LIVING	242	0		
+TCGA-19-5955-01	NON G-CIMP	Mesenchymal	DECEASED	54	1		
+TCGA-19-5956-01	NON G-CIMP	non_Mesenchymal	LIVING	198	0	Progression of Disease	647
+TCGA-19-5958-01	NON G-CIMP	non_Mesenchymal	LIVING	164	0	Recurrence	356
+TCGA-19-5959-01	NON G-CIMP	non_Mesenchymal	LIVING	161	0	Recurrence	119
+TCGA-19-5960-01	NON G-CIMP	non_Mesenchymal	LIVING	165	0	Recurrence	382
+TCGA-26-1438-01	NON G-CIMP	Mesenchymal	LIVING	305	0	Progression of Disease	158
+TCGA-26-1439-01	NON G-CIMP	non_Mesenchymal	DECEASED	422	1	Progression of Disease	284
+TCGA-26-1440-01	NON G-CIMP	non_Mesenchymal	LIVING	296	0	Recurrence	233
+TCGA-26-1442-01	G-CIMP	non_Mesenchymal	LIVING	953	0		
+TCGA-26-1443-01	NON G-CIMP	non_Mesenchymal	LIVING	217	0	Progression of Disease	217
+TCGA-26-1799-01	NON G-CIMP	non_Mesenchymal	DECEASED	285	1	Recurrence	213
+TCGA-26-5132-01	NON G-CIMP	non_Mesenchymal	LIVING	286	0		
+TCGA-26-5133-01	G-CIMP	non_Mesenchymal	LIVING	452	0	Progression of Disease	370
+TCGA-26-5134-01	NON G-CIMP	non_Mesenchymal	LIVING	167	0		
+TCGA-26-5135-01	NON G-CIMP	non_Mesenchymal	DECEASED	270	1		
+TCGA-26-5136-01	NON G-CIMP	Mesenchymal	DECEASED	577	1		
+TCGA-26-5139-01	NON G-CIMP	Mesenchymal	LIVING	48	0		
+TCGA-27-1830-01	NON G-CIMP	non_Mesenchymal	DECEASED	154	1	Recurrence	124
+TCGA-27-1831-01	NON G-CIMP	non_Mesenchymal	DECEASED	505	1	Progression of Disease	144
+TCGA-27-1832-01	NON G-CIMP	Mesenchymal	DECEASED	300	1	Progression of Disease	176
+TCGA-27-1833-01	NON G-CIMP	non_Mesenchymal	DECEASED	737	1	Recurrence	469
+TCGA-27-1834-01	NON G-CIMP	non_Mesenchymal	DECEASED	1233	1	Recurrence	335
+TCGA-27-1835-01	NON G-CIMP	non_Mesenchymal	DECEASED	648	1	Progression of Disease	157
+TCGA-27-1836-01	NON G-CIMP	non_Mesenchymal	DECEASED	914	1	Progression of Disease	172
+TCGA-27-1837-01	NON G-CIMP	non_Mesenchymal	DECEASED	427	1	Progression of Disease	136
+TCGA-27-1838-01	NON G-CIMP	Mesenchymal	DECEASED	350	1	Progression of Disease	119
+TCGA-27-2518-01	NON G-CIMP	non_Mesenchymal	DECEASED	753	1	Progression of Disease	539
+TCGA-27-2519-01	NON G-CIMP	Mesenchymal	LIVING	316	0	Progression of Disease	256
+TCGA-27-2521-01	G-CIMP	non_Mesenchymal	LIVING	316	0		
+TCGA-27-2523-01	NON G-CIMP	non_Mesenchymal	DECEASED	489	1	Progression of Disease	402
+TCGA-27-2524-01	NON G-CIMP	Mesenchymal	DECEASED	231	1		
+TCGA-27-2526-01	NON G-CIMP	non_Mesenchymal	DECEASED	87	1		
+TCGA-27-2527-01	NON G-CIMP	Mesenchymal	DECEASED	438	1		
+TCGA-27-2528-01	NON G-CIMP	non_Mesenchymal	DECEASED	480	1	Progression of Disease	72
+TCGA-28-1745-01	NON G-CIMP	Mesenchymal	LIVING	345	0	Progression of Disease	317
+TCGA-28-1746-01	NON G-CIMP	non_Mesenchymal	LIVING	6	0		
+TCGA-28-1747-01	NON G-CIMP	non_Mesenchymal	DECEASED	77	1		
+TCGA-28-1749-01	NON G-CIMP	non_Mesenchymal	LIVING	280	0	Progression of Disease	280
+TCGA-28-1750-01	NON G-CIMP	Mesenchymal	LIVING	254	0	Progression of Disease	116
+TCGA-28-1751-01	NON G-CIMP	Mesenchymal	LIVING	232	0	Progression of Disease	219
+TCGA-28-1752-01	NON G-CIMP	non_Mesenchymal	LIVING	258	0		
+TCGA-28-1753-01	NON G-CIMP	Mesenchymal	LIVING	37	0		
+TCGA-28-1755-01	NON G-CIMP	non_Mesenchymal	DECEASED	47	1		
+TCGA-28-1756-01	G-CIMP	non_Mesenchymal	LIVING	86	0		
+TCGA-28-1757-01	NON G-CIMP	non_Mesenchymal	LIVING	4	0		
+TCGA-28-1760-01	NON G-CIMP	non_Mesenchymal	LIVING	143	0	Progression of Disease	105
+TCGA-28-2502-01	NON G-CIMP	Mesenchymal	LIVING	20	0		
+TCGA-28-2506-01	NON G-CIMP	non_Mesenchymal	LIVING	205	0	Progression of Disease	84
+TCGA-28-2509-01	NON G-CIMP	Mesenchymal	LIVING	145	0		
+TCGA-28-2510-01	NON G-CIMP	non_Mesenchymal					
+TCGA-28-2513-01	NON G-CIMP	Mesenchymal	LIVING	222	0	Progression of Disease	75
+TCGA-28-2514-01	NON G-CIMP	non_Mesenchymal	LIVING	160	0		
+TCGA-28-5204-01	NON G-CIMP	non_Mesenchymal	DECEASED	454	1		
+TCGA-28-5207-01	NON G-CIMP	Mesenchymal	DECEASED	343	1		
+TCGA-28-5208-01	NON G-CIMP	Mesenchymal	LIVING	474	0		148
+TCGA-28-5209-01	NON G-CIMP	Mesenchymal	LIVING	442	0		
+TCGA-28-5213-01	NON G-CIMP	Mesenchymal	LIVING	298	0		
+TCGA-28-5214-01	NON G-CIMP	Mesenchymal	LIVING	432	0	Locoregional Disease	247
+TCGA-28-5215-01	NON G-CIMP	Mesenchymal	DECEASED	335	1		164
+TCGA-28-5216-01	NON G-CIMP	Mesenchymal	LIVING	415	0		
+TCGA-28-5218-01	NON G-CIMP	Mesenchymal	DECEASED	157	1		
+TCGA-28-5219-01	NON G-CIMP	non_Mesenchymal	LIVING	259	0		258
+TCGA-28-5220-01	NON G-CIMP	non_Mesenchymal	LIVING	319	0		262
+TCGA-28-6450-01	NON G-CIMP	non_Mesenchymal	DECEASED	165	1		
+TCGA-32-1970-01	NON G-CIMP	non_Mesenchymal	DECEASED	468	1	Progression of Disease	408
+TCGA-32-1973-01	NON G-CIMP	non_Mesenchymal	DECEASED	641	1	Progression of Disease	507
+TCGA-32-1976-01	NON G-CIMP	non_Mesenchymal	DECEASED	15	1		
+TCGA-32-1977-01	NON G-CIMP	non_Mesenchymal	LIVING	3	0		
+TCGA-32-1978-01	NON G-CIMP	non_Mesenchymal	DECEASED	482	1		
+TCGA-32-1979-01	NON G-CIMP	non_Mesenchymal	DECEASED	593	1	Progression of Disease	265
+TCGA-32-1980-01	NON G-CIMP	non_Mesenchymal	DECEASED	36	1		
+TCGA-32-1982-01	NON G-CIMP	non_Mesenchymal	DECEASED	142	1		
+TCGA-32-1986-01	NON G-CIMP	Mesenchymal	DECEASED	386	1	Progression of Disease	233
+TCGA-32-1987-01	NON G-CIMP	Mesenchymal	DECEASED	452	1	Recurrence	68
+TCGA-32-1991-01	NON G-CIMP	non_Mesenchymal	DECEASED	515	1	Recurrence	345
+TCGA-32-2491-01	NON G-CIMP	Mesenchymal	DECEASED	372	1	Recurrence	70
+TCGA-32-2494-01	NON G-CIMP	Mesenchymal	DECEASED	632	1	Progression of Disease	488
+TCGA-32-2495-01	NON G-CIMP	non_Mesenchymal	DECEASED	457	1	Recurrence	252
+TCGA-32-2498-01	NON G-CIMP	Mesenchymal					
+TCGA-32-2615-01	NON G-CIMP	Mesenchymal	DECEASED	485	1	Progression of Disease	131
+TCGA-32-2616-01	NON G-CIMP	Mesenchymal	DECEASED	224	1	Progression of Disease	182
+TCGA-32-2632-01	NON G-CIMP	Mesenchymal	DECEASED	269	1		
+TCGA-32-2634-01	NON G-CIMP	non_Mesenchymal	LIVING	270	0		
+TCGA-32-2638-01	NON G-CIMP	non_Mesenchymal	LIVING	224	0		
+TCGA-32-4208-01	G-CIMP	non_Mesenchymal	LIVING	400	0		
+TCGA-32-4209-01	NON G-CIMP	Mesenchymal	LIVING	338	0	Recurrence	94
+TCGA-32-4210-01	NON G-CIMP	non_Mesenchymal	DECEASED	113	1		
+TCGA-32-4211-01	NON G-CIMP	non_Mesenchymal	DECEASED	383	1		
+TCGA-32-4213-01	NON G-CIMP	Mesenchymal	LIVING	357	0	Recurrence	353
+TCGA-32-4719-01	NON G-CIMP	non_Mesenchymal	DECEASED	330	1		
+TCGA-32-5222-01	NON G-CIMP	non_Mesenchymal	LIVING	165	0	Progression of Disease	118
+TCGA-41-2571-01	NON G-CIMP	non_Mesenchymal	DECEASED	26	1	Progression of Disease	26
+TCGA-41-2572-01	NON G-CIMP	non_Mesenchymal	DECEASED	406	1	Progression of Disease	122
+TCGA-41-2573-01	NON G-CIMP	non_Mesenchymal	LIVING	272	0	Progression of Disease	167
+TCGA-41-2575-01	NON G-CIMP	non_Mesenchymal	DECEASED	290	1	Progression of Disease	131
+TCGA-41-3392-01	NON G-CIMP	non_Mesenchymal	DECEASED	30	1		
+TCGA-41-3393-01	NON G-CIMP	Mesenchymal	DECEASED	135	1		
+TCGA-41-3915-01	NON G-CIMP	Mesenchymal	DECEASED	360	1	Locoregional Disease	288
+TCGA-41-4097-01	NON G-CIMP	Mesenchymal	DECEASED	6	1		
+TCGA-41-5651-01	NON G-CIMP	non_Mesenchymal	LIVING	351	0	Progression of Disease	210
+TCGA-76-4925-01	NON G-CIMP	non_Mesenchymal	DECEASED	146	1	Progression of Disease	88
+TCGA-76-4926-01	NON G-CIMP	non_Mesenchymal	DECEASED	138	1	Progression of Disease	34
+TCGA-76-4927-01	NON G-CIMP	non_Mesenchymal	DECEASED	535	1	Progression of Disease	416
+TCGA-76-4928-01	NON G-CIMP	non_Mesenchymal	DECEASED	94	1		
+TCGA-76-4929-01	NON G-CIMP	non_Mesenchymal	DECEASED	111	1		
+TCGA-76-4931-01	NON G-CIMP	non_Mesenchymal	DECEASED	279	1	Progression of Disease	112
+TCGA-76-4932-01	NON G-CIMP	non_Mesenchymal	DECEASED	1458	1		
+TCGA-76-4934-01	NON G-CIMP	non_Mesenchymal	DECEASED	77	1		
+TCGA-76-4935-01	NON G-CIMP	non_Mesenchymal	LIVING	328	0	Progression of Disease	328
+TCGA-76-6191-01	NON G-CIMP	non_Mesenchymal	DECEASED	508	1	Progression of Disease	323
+TCGA-76-6192-01	NON G-CIMP	non_Mesenchymal	DECEASED	100	1	Progression of Disease	76
+TCGA-76-6193-01	NON G-CIMP	Mesenchymal	DECEASED	82	1	Progression of Disease	64
+TCGA-76-6282-01	NON G-CIMP	Mesenchymal	DECEASED	519	1	Progression of Disease	458
+TCGA-76-6285-01	NON G-CIMP	non_Mesenchymal	DECEASED	254	1		
+TCGA-81-5910-01	NON G-CIMP	non_Mesenchymal	DECEASED	49	1		
+TCGA-87-5896-01	NON G-CIMP	non_Mesenchymal	LIVING	800	0		

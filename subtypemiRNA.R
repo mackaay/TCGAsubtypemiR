@@ -384,3 +384,54 @@ heatmap.2(DEmiR_all_miR,col=rev(morecols(50)),trace="none",
           margins = c(5,20), dendrogram = "column")
 coords <- locator(1) #click plot to get coordinates
 legend(coords, legend = unique(sampleinfo_all$GeneExp_Subtype), col = unique(col.all), lty = 1, lwd= 5, cex=.7)
+
+
+
+####PCA
+subtype_TCGA_miRNA_all_select <- subtype_TCGA_miRNA[,DEmiR_all_select]
+pca2<- prcomp(subtype_TCGA_miRNA_all_select)
+subtypeinfo <- subtype_TCGA_miRNA$GeneExp_Subtype
+subtype_TCGA_miRNA_all_select <- cbind(subtype_TCGA_miRNA_all_select, subtypeinfo)
+as.factor(subtype_TCGA_miRNA_all_select$subtypeinfo)
+autoplot(pca2, data = subtype_TCGA_miRNA_all_select, 
+         colour = 'subtypeinfo', size = 5) + scale_color_brewer(palette='Set1')+ theme_bw()
+
+
+####tSNE
+library(caret)  
+library(Rtsne)
+
+##loading data
+data_tsne <- subtype_TCGA_miRNA_all_select
+class(data_tsne) <- "numeric"
+##Rtsne function
+set.seed(9)
+tsne_model1 <- Rtsne(data_tsne, check_duplicates = F, pca = T, perplexity = 50, theta = 0.5, dims = 2)
+
+## getting the two dimension matrix
+d_tsne_1 <- as.data.frame(tsne_model1$Y)
+
+## plotting the results without clustering
+ggplot(d_tsne_1, aes(x = V1, y = V2))+
+  geom_point(size = 2)+
+  guides(colour=guide_legend(override.aes=list(size=6))) +
+  xlab("") + ylab("") +
+  ggtitle("t-SNE") +
+  theme_light(base_size=20) +
+  theme(axis.text.x=element_blank(),
+        axis.text.y=element_blank()) +
+  scale_colour_brewer(palette = "Set2")
+
+## binding clinical info from original data frame
+sampleinfo_all 
+d_tsne_2 <- cbind(d_tsne_1, sampleinfo_all)
+
+## Plotting
+ggplot(d_tsne_2, aes(x = V1, y = V2, colour = GeneExp_Subtype))+
+  geom_point(size = 7)+
+  theme_light(base_size=20)  +
+  ggtitle("t-SNE")+
+  guides(colour=guide_legend(override.aes=list(size=5)))+
+  theme(axis.text.x=element_blank(),
+        axis.text.y=element_blank()) 
+  
